@@ -4,13 +4,12 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+## 🧍‍♂️ About Me 
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="35%" align="right"  />
+I am a **Machine Learning Engineer** and **AI Researcher** with a strong focus<b> on leveraging data-driven approaches to solve complex problems<b>  in **healthcare, education, and public policy**.  
+I specialize in **deep learning**, **data science**,<b>  and **AI-powered analytics**, combining research insights with real-world applications.  
 
-## 🧍‍♂️ About Me  
-I am a **Machine Learning Engineer** and **AI Researcher** with a strong focus on leveraging data-driven approaches to solve complex problems in **healthcare, education, and public policy**.  
-I specialize in **deep learning**, **data science**, and **AI-powered analytics**, combining research insights with real-world applications.  
-
-My professional philosophy revolves around **bridging the gap between cutting-edge AI research and practical implementation**, delivering impactful solutions that enhance decision-making and societal outcomes.  
+My professional philosophy revolves around **bridging the gap between cutting-edge AI research and practical implementation**,<b>  delivering impactful solutions that enhance decision-making and societal outcomes.  
 
 - 🔭 Leading AI development initiatives in healthcare and education  
 - 🌱 Continuously advancing expertise in deep learning architectures and LLM fine-tuning  
